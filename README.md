@@ -7,7 +7,7 @@
 I'm Masha, a mom and radiology assistant turned builder. Currently I'm working on [RepoPolish](https://repopolish.vercel.app) to help builders write READMEs without the headache and make their repositories look polished with ease.
 
 
-## Features
+## Do We Vibe?
 
 I'm all about personal growth, sharpening my skills, and helping others do the same.
 
